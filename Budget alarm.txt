@@ -1,0 +1,16 @@
+You can create a Budget by using the below instructions:
+
+— https://console.aws.amazon.com/billing/home?#/budgets  
+
+— Click on “Create a Budget” 
+
+— Then you can select “Use a template (Simplified)”
+
+— Then you can select Monthly cost budget / Zero spend budget
+
+— Scroll down below, enter the budget and any Email recipients, and then select Create budget.
+
+— This will create a budget and will alert you when you're about to exceed budget
+
+-Once the budget is created please edit the budget amount to 0.01 USD as this will be the minimum budget which will help you to avoid any future charges 
+Follow these steps and setup the budget alarm
